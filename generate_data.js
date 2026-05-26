@@ -45,8 +45,8 @@ const segmentTypes = {
     'Remote and Difficult-Terrain Transmission Corridors': 0.20,
   },
   'By Customer Type': {
-    'Electric Transmission Utilities': 0.35,
-    'Transmission System Operators': 0.25,
+    'Transmission System Operators and Transmission Utilities': 0.35,
+    'Distribution Network Operators': 0.25,
     'EPC and Grid Infrastructure Contractors': 0.20,
     'Industrial Power Network Owners': 0.10,
     'Government and Public Transmission Agencies': 0.10,
@@ -97,8 +97,8 @@ const segmentGrowthMultipliers = {
     'Remote and Difficult-Terrain Transmission Corridors': 1.12,
   },
   'By Customer Type': {
-    'Electric Transmission Utilities': 1.02,
-    'Transmission System Operators': 1.06,
+    'Transmission System Operators and Transmission Utilities': 1.02,
+    'Distribution Network Operators': 1.06,
     'EPC and Grid Infrastructure Contractors': 1.10,
     'Industrial Power Network Owners': 1.08,
     'Government and Public Transmission Agencies': 1.04,

@@ -330,7 +330,7 @@
       }
     },
     "By Customer Type": {
-      "Electric Transmission Utilities": {
+      "Transmission System Operators and Transmission Utilities": {
         "2021": 34076,
         "2022": 36754,
         "2023": 39444,
@@ -345,7 +345,7 @@
         "2032": 82473,
         "2033": 87738
       },
-      "Transmission System Operators": {
+      "Distribution Network Operators": {
         "2021": 23985,
         "2022": 26395,
         "2023": 28945,

@@ -330,7 +330,7 @@
       }
     },
     "By Customer Type": {
-      "Electric Transmission Utilities": {
+      "Transmission System Operators and Transmission Utilities": {
         "2021": 65.4,
         "2022": 70.7,
         "2023": 78.7,
@@ -345,7 +345,7 @@
         "2032": 160.9,
         "2033": 172.8
       },
-      "Transmission System Operators": {
+      "Distribution Network Operators": {
         "2021": 47,
         "2022": 48.4,
         "2023": 52.9,

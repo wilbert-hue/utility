@@ -70,7 +70,7 @@ function main() {
     marketTitle: 'U.K. Composite Utility Transmission Pole Market - Customer Database',
     subtitle: 'Verified directory and insight on customers',
     entityNote:
-      '(Entity Across Electric Transmission Utilities, Transmission System Operators, EPC and Grid Infrastructure Contractors, Industrial Power Network Owners, Government and Public Transmission Agencies)',
+      '(Entity Across Transmission System Operators and Transmission Utilities, Distribution Network Operators, EPC and Grid Infrastructure Contractors, Industrial Power Network Owners, Government and Public Transmission Agencies)',
     proposition1: {
       id: 'proposition-1',
       label: 'Proposition 1 - Basic',

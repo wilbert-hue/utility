@@ -36,8 +36,8 @@
       "Remote and Difficult-Terrain Transmission Corridors": {}
     },
     "By Customer Type": {
-      "Electric Transmission Utilities": {},
-      "Transmission System Operators": {},
+      "Transmission System Operators and Transmission Utilities": {},
+      "Distribution Network Operators": {},
       "EPC and Grid Infrastructure Contractors": {},
       "Industrial Power Network Owners": {},
       "Government and Public Transmission Agencies": {}
