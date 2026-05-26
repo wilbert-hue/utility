@@ -42,20 +42,55 @@ const PROP3_EXTRA = [
   'additionalCmiNotes',
 ];
 
+function normalizeCell(value) {
+  return String(value ?? '')
+    .replace(/\r\n/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function extractTitleLines(rows) {
+  const raw = String(rows[0]?.[0] || rows[0]?.[1] || '');
+  return raw.split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
+}
+
+function findCompanyNameColumn(rows) {
+  for (let r = 0; r < Math.min(rows.length, 10); r++) {
+    const idx = rows[r].findIndex(
+      (cell) => String(cell).trim() === 'Customer / Company Name'
+    );
+    if (idx !== -1) {
+      return { headerRowIdx: r, companyColIdx: idx };
+    }
+  }
+  return null;
+}
+
 function parseSheet(wb, sheetName, extraColsAfterBase = []) {
   const ws = wb.Sheets[sheetName];
   const rows = XLSX.utils.sheet_to_json(ws, { header: 1, defval: '' });
-  const titleRaw = String(rows[0][0] || '');
-  const titleLines = titleRaw.split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
+  const titleLines = extractTitleLines(rows);
+  const header = findCompanyNameColumn(rows);
+
+  if (!header) {
+    throw new Error(`Could not find header row in sheet "${sheetName}"`);
+  }
+
+  const { headerRowIdx, companyColIdx } = header;
+  const sNoColIdx = companyColIdx - 1;
   const allCols = [...PROP1_COLS, ...extraColsAfterBase];
   const dataRows = [];
 
-  for (let i = 6; i < rows.length; i++) {
+  for (let i = headerRowIdx + 1; i < rows.length; i++) {
     const row = rows[i];
-    if (!row[0] && !row[1]) continue;
-    const record = { sNo: row[0] };
+    const sNo = row[sNoColIdx];
+    const company = row[companyColIdx];
+    if (!sNo && !company) continue;
+    if (String(company).trim() === 'Customer / Company Name') continue;
+
+    const record = { sNo: normalizeCell(sNo) };
     allCols.forEach((key, idx) => {
-      record[key] = String(row[idx + 1] ?? '').trim();
+      record[key] = normalizeCell(row[companyColIdx + idx] ?? '');
     });
     dataRows.push(record);
   }

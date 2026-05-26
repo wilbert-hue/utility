@@ -12,8 +12,53 @@
     ],
     "rows": [
       {
-        "sNo": 1,
-        "customerCompanyName": "Scottish and Southern Electricity Networks / SSEN Transmission",
+        "sNo": "1",
+        "customerCompanyName": "E.ON",
+        "businessOverview": "International energy company focused on energy networks, smart grids, energy infrastructure solutions, and customer solutions across Europe. In the Hitachi Energy reference case, E.ON selected composite utility poles for upgrading a five-kilometer 10 kilovolt distribution line in the Småland forest, Sweden.",
+        "customerTypeAndNetworkResponsibility": "Distribution Network Operator (DNO)",
+        "compositePoleApplicationUseCase": "Replacement / upgrade of 10 kilovolt distribution poles in environmentally sensitive forest, water-body, park, and residential-adjacent areas where treated wooden poles create environmental leakage concerns.",
+        "annualRevenueOrNetworkBudgetSignal": "Approx. US$89,046 Mn FY2025 group revenue; strong network budget signal with €7.0 Bn invested in Energy Networks in FY2025 and €48 Bn planned group investments for 2026–2030.",
+        "sizeOperatingScale": "Major European energy network operator with large regulated grid operations across multiple European markets; composite pole reference is Sweden-specific, not United Kingdom-specific.",
+        "keyContactPerson": "Oliver Franz",
+        "designationDecisionMakerRole": "VP European Regulation at E.ON SE; regulatory stakeholder, not confirmed direct pole procurement owner",
+        "emailAddress": "oliver.franz@eon.com",
+        "telephoneWhatsappNumber": "+49 201 18400",
+        "linkedInProfile": "https://de.linkedin.com/in/oliver-franz-29786688",
+        "website": "eon.com"
+      },
+      {
+        "sNo": "2",
+        "customerCompanyName": "UK Power Networks (Eastern Power Networks)",
+        "businessOverview": "Electricity distribution network operator maintaining electricity networks across London, the South East, and the East of England. It operates through Eastern Power Networks, London Power Networks, and South Eastern Power Networks.",
+        "customerTypeAndNetworkResponsibility": "Electricity Distribution Network Operator",
+        "compositePoleApplicationUseCase": "Engineered / composite-alternative pole application for 33 kilovolt distribution overhead-line networks. Public evidence supports UK Power Networks’ engineered pole trial on a 33 kilovolt line, not confirmed composite utility transmission pole purchase.",
+        "annualRevenueOrNetworkBudgetSignal": "FY2025 turnover: £2,462.9 million, approximately US$3,100 million; strong regulated network capital expenditure signal.",
+        "sizeOperatingScale": "Major electricity distribution network covering London, South East England, and East of England; large urban, semi-urban, and rural distribution network base.",
+        "keyContactPerson": "Andrew Quail",
+        "designationDecisionMakerRole": "Chief Information Officer; digital and information technology stakeholder, not confirmed direct pole procurement owner",
+        "emailAddress": "andrew.quail@ukpowernetworks.co.uk",
+        "telephoneWhatsappNumber": "+44 800 783 8838",
+        "linkedInProfile": "https://uk.linkedin.com/in/andrewquail",
+        "website": "ukpowernetworks.co.uk"
+      },
+      {
+        "sNo": "3",
+        "customerCompanyName": "SP Energy Networks",
+        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
+        "customerTypeAndNetworkResponsibility": "Transmission System Operator and Distribution Network Operator",
+        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
+        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
+        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
+        "keyContactPerson": "Christopher Carter",
+        "designationDecisionMakerRole": "Head of Innovation",
+        "emailAddress": "ccarter@spenergynetworks.co.uk",
+        "telephoneWhatsappNumber": "+44 800 092 9290",
+        "linkedInProfile": "https://uk.linkedin.com/in/christopher-carter-6133a163",
+        "website": "https://www.spenergynetworks.co.uk/"
+      },
+      {
+        "sNo": "4",
+        "customerCompanyName": "SSEN Transmission (Scottish and Southern Electricity Networks)",
         "businessOverview": "Electricity transmission network owner and operator responsible for the north of Scotland transmission network and renewable energy grid connections.",
         "customerTypeAndNetworkResponsibility": "Transmission System Operator and Transmission Utility",
         "compositePoleApplicationUseCase": "Used composite poles for Dorenell Wind Farm transmission connection project and remote-terrain grid infrastructure deployment.",
@@ -27,52 +72,7 @@
         "website": "https://www.ssen-transmission.co.uk/"
       },
       {
-        "sNo": 2,
-        "customerCompanyName": "SP Energy Networks",
-        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
-        "customerTypeAndNetworkResponsibility": "Transmission System Operator / Distribution Network Operator",
-        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
-        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
-        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "Christopher Carter",
-        "designationDecisionMakerRole": "Head of Innovation",
-        "emailAddress": "ccarter@spenergynetworks.co.uk",
-        "telephoneWhatsappNumber": "+44 800 092 9290",
-        "linkedInProfile": "https://uk.linkedin.com/in/christopher-carter-6133a163",
-        "website": "https://www.spenergynetworks.co.uk/"
-      },
-      {
-        "sNo": 3,
-        "customerCompanyName": "Customer 3",
-        "businessOverview": "xx",
-        "customerTypeAndNetworkResponsibility": "xx",
-        "compositePoleApplicationUseCase": "xx",
-        "annualRevenueOrNetworkBudgetSignal": "xx",
-        "sizeOperatingScale": "xx",
-        "keyContactPerson": "xx",
-        "designationDecisionMakerRole": "xx",
-        "emailAddress": "xx",
-        "telephoneWhatsappNumber": "xx",
-        "linkedInProfile": "xx",
-        "website": "xx"
-      },
-      {
-        "sNo": 4,
-        "customerCompanyName": "Customer 4",
-        "businessOverview": "xx",
-        "customerTypeAndNetworkResponsibility": "xx",
-        "compositePoleApplicationUseCase": "xx",
-        "annualRevenueOrNetworkBudgetSignal": "xx",
-        "sizeOperatingScale": "xx",
-        "keyContactPerson": "xx",
-        "designationDecisionMakerRole": "xx",
-        "emailAddress": "xx",
-        "telephoneWhatsappNumber": "xx",
-        "linkedInProfile": "xx",
-        "website": "xx"
-      },
-      {
-        "sNo": 5,
+        "sNo": "5",
         "customerCompanyName": "Customer 5",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -87,7 +87,7 @@
         "website": "xx"
       },
       {
-        "sNo": 6,
+        "sNo": "6",
         "customerCompanyName": "Customer 6",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -102,7 +102,7 @@
         "website": "xx"
       },
       {
-        "sNo": 7,
+        "sNo": "7",
         "customerCompanyName": "Customer 7",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -117,7 +117,7 @@
         "website": "xx"
       },
       {
-        "sNo": 8,
+        "sNo": "8",
         "customerCompanyName": "Customer 8",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -132,7 +132,7 @@
         "website": "xx"
       },
       {
-        "sNo": 9,
+        "sNo": "9",
         "customerCompanyName": "Customer 9",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -147,7 +147,7 @@
         "website": "xx"
       },
       {
-        "sNo": 10,
+        "sNo": "10",
         "customerCompanyName": "Customer 10",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -162,7 +162,7 @@
         "website": "xx"
       },
       {
-        "sNo": 11,
+        "sNo": "11",
         "customerCompanyName": "Customer 11",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -177,7 +177,7 @@
         "website": "xx"
       },
       {
-        "sNo": 12,
+        "sNo": "12",
         "customerCompanyName": "Customer 12",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -192,7 +192,7 @@
         "website": "xx"
       },
       {
-        "sNo": 13,
+        "sNo": "13",
         "customerCompanyName": "Customer 13",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -207,7 +207,7 @@
         "website": "xx"
       },
       {
-        "sNo": 14,
+        "sNo": "14",
         "customerCompanyName": "Customer 14",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -222,7 +222,7 @@
         "website": "xx"
       },
       {
-        "sNo": 15,
+        "sNo": "15",
         "customerCompanyName": "Customer N",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -248,8 +248,68 @@
     ],
     "rows": [
       {
-        "sNo": 1,
-        "customerCompanyName": "Scottish and Southern Electricity Networks / SSEN Transmission",
+        "sNo": "1",
+        "customerCompanyName": "E.ON",
+        "businessOverview": "International energy company focused on energy networks, smart grids, energy infrastructure solutions, and customer solutions across Europe. In the Hitachi Energy reference case, E.ON selected composite utility poles for upgrading a five-kilometer 10 kilovolt distribution line in the Småland forest, Sweden.",
+        "customerTypeAndNetworkResponsibility": "Distribution Network Operator (DNO)",
+        "compositePoleApplicationUseCase": "Replacement / upgrade of 10 kilovolt distribution poles in environmentally sensitive forest, water-body, park, and residential-adjacent areas where treated wooden poles create environmental leakage concerns.",
+        "annualRevenueOrNetworkBudgetSignal": "Approx. US$89,046 Mn FY2025 group revenue; strong network budget signal with €7.0 Bn invested in Energy Networks in FY2025 and €48 Bn planned group investments for 2026–2030.",
+        "sizeOperatingScale": "Major European energy network operator with large regulated grid operations across multiple European markets; composite pole reference is Sweden-specific, not United Kingdom-specific.",
+        "keyContactPerson": "Oliver Franz",
+        "designationDecisionMakerRole": "VP European Regulation at E.ON SE; regulatory stakeholder, not confirmed direct pole procurement owner",
+        "emailAddress": "oliver.franz@eon.com",
+        "telephoneWhatsappNumber": "+49 201 18400",
+        "linkedInProfile": "https://de.linkedin.com/in/oliver-franz-29786688",
+        "website": "eon.com",
+        "compositePolePurchaseCriteria": "No chemical leakage, environmentally safe pole material, strength and stiffness compliance, easy installation, maintenance-free design, suitability for sensitive ecosystems",
+        "networkPainPoints": "Environmental concerns from creosote or copper-salt treated wooden poles, replacement of aging wooden poles, public/environmental sensitivity near water bodies and residential areas",
+        "gridComplianceAndOperationalIssues": "Distribution-line safety standards, environmental protection requirements, pole material compliance, local grid engineering acceptance",
+        "digitalMaturity": "High",
+        "riskExposure": "Environmental liability, public opposition, pole deterioration, regulatory scrutiny around treated wood use"
+      },
+      {
+        "sNo": "2",
+        "customerCompanyName": "UK Power Networks (Eastern Power Networks)",
+        "businessOverview": "Electricity distribution network operator maintaining electricity networks across London, the South East, and the East of England. It operates through Eastern Power Networks, London Power Networks, and South Eastern Power Networks.",
+        "customerTypeAndNetworkResponsibility": "Electricity Distribution Network Operator",
+        "compositePoleApplicationUseCase": "Engineered / composite-alternative pole application for 33 kilovolt distribution overhead-line networks. Public evidence supports UK Power Networks’ engineered pole trial on a 33 kilovolt line, not confirmed composite utility transmission pole purchase.",
+        "annualRevenueOrNetworkBudgetSignal": "FY2025 turnover: £2,462.9 million, approximately US$3,100 million; strong regulated network capital expenditure signal.",
+        "sizeOperatingScale": "Major electricity distribution network covering London, South East England, and East of England; large urban, semi-urban, and rural distribution network base.",
+        "keyContactPerson": "Andrew Quail",
+        "designationDecisionMakerRole": "Chief Information Officer; digital and information technology stakeholder, not confirmed direct pole procurement owner",
+        "emailAddress": "andrew.quail@ukpowernetworks.co.uk",
+        "telephoneWhatsappNumber": "+44 800 783 8838",
+        "linkedInProfile": "https://uk.linkedin.com/in/andrewquail",
+        "website": "ukpowernetworks.co.uk",
+        "compositePolePurchaseCriteria": "Engineering approval, 33 kilovolt network suitability, installation safety, lifecycle cost, low maintenance, outage reduction, compatibility with existing overhead-line assets",
+        "networkPainPoints": "Aging overhead-line assets, storm resilience, restricted access, urban and semi-rural disruption, outage minimisation, rising network load from electrification",
+        "gridComplianceAndOperationalIssues": "Distribution network safety standards, engineering specifications, asset-management approval, environmental and wayleave constraints, Distribution Network Operator regulatory obligations",
+        "digitalMaturity": "High",
+        "riskExposure": "Service interruption risk, public safety risk, project delay risk, asset defect risk, regulatory performance risk"
+      },
+      {
+        "sNo": "3",
+        "customerCompanyName": "SP Energy Networks",
+        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
+        "customerTypeAndNetworkResponsibility": "Transmission System Operator and Distribution Network Operator",
+        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
+        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
+        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
+        "keyContactPerson": "Christopher Carter",
+        "designationDecisionMakerRole": "Head of Innovation",
+        "emailAddress": "ccarter@spenergynetworks.co.uk",
+        "telephoneWhatsappNumber": "+44 800 092 9290",
+        "linkedInProfile": "https://uk.linkedin.com/in/christopher-carter-6133a163",
+        "website": "https://www.spenergynetworks.co.uk/",
+        "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
+        "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
+        "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
+        "digitalMaturity": "High",
+        "riskExposure": "High exposure to weather disruption, regulatory performance targets, asset failure risk, grid capacity constraints, and decarbonization delivery pressure."
+      },
+      {
+        "sNo": "4",
+        "customerCompanyName": "SSEN Transmission (Scottish and Southern Electricity Networks)",
         "businessOverview": "Electricity transmission network owner and operator responsible for the north of Scotland transmission network and renewable energy grid connections.",
         "customerTypeAndNetworkResponsibility": "Transmission System Operator and Transmission Utility",
         "compositePoleApplicationUseCase": "Used composite poles for Dorenell Wind Farm transmission connection project and remote-terrain grid infrastructure deployment.",
@@ -268,67 +328,7 @@
         "riskExposure": "High exposure to grid reliability risks, severe weather conditions, project execution delays, and renewable integration pressure."
       },
       {
-        "sNo": 2,
-        "customerCompanyName": "SP Energy Networks",
-        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
-        "customerTypeAndNetworkResponsibility": "Transmission System Operator / Distribution Network Operator",
-        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
-        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
-        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "Christopher Carter",
-        "designationDecisionMakerRole": "Head of Innovation",
-        "emailAddress": "ccarter@spenergynetworks.co.uk",
-        "telephoneWhatsappNumber": "+44 800 092 9290",
-        "linkedInProfile": "https://uk.linkedin.com/in/christopher-carter-6133a163",
-        "website": "https://www.spenergynetworks.co.uk/",
-        "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
-        "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
-        "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
-        "digitalMaturity": "High",
-        "riskExposure": "High exposure to weather disruption, regulatory performance targets, asset failure risk, grid capacity constraints, and decarbonization delivery pressure."
-      },
-      {
-        "sNo": 3,
-        "customerCompanyName": "Customer 3",
-        "businessOverview": "xx",
-        "customerTypeAndNetworkResponsibility": "xx",
-        "compositePoleApplicationUseCase": "xx",
-        "annualRevenueOrNetworkBudgetSignal": "xx",
-        "sizeOperatingScale": "xx",
-        "keyContactPerson": "xx",
-        "designationDecisionMakerRole": "xx",
-        "emailAddress": "xx",
-        "telephoneWhatsappNumber": "xx",
-        "linkedInProfile": "xx",
-        "website": "xx",
-        "compositePolePurchaseCriteria": "xx",
-        "networkPainPoints": "xx",
-        "gridComplianceAndOperationalIssues": "xx",
-        "digitalMaturity": "xx",
-        "riskExposure": "xx"
-      },
-      {
-        "sNo": 4,
-        "customerCompanyName": "Customer 4",
-        "businessOverview": "xx",
-        "customerTypeAndNetworkResponsibility": "xx",
-        "compositePoleApplicationUseCase": "xx",
-        "annualRevenueOrNetworkBudgetSignal": "xx",
-        "sizeOperatingScale": "xx",
-        "keyContactPerson": "xx",
-        "designationDecisionMakerRole": "xx",
-        "emailAddress": "xx",
-        "telephoneWhatsappNumber": "xx",
-        "linkedInProfile": "xx",
-        "website": "xx",
-        "compositePolePurchaseCriteria": "xx",
-        "networkPainPoints": "xx",
-        "gridComplianceAndOperationalIssues": "xx",
-        "digitalMaturity": "xx",
-        "riskExposure": "xx"
-      },
-      {
-        "sNo": 5,
+        "sNo": "5",
         "customerCompanyName": "Customer 5",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -348,7 +348,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 6,
+        "sNo": "6",
         "customerCompanyName": "Customer 6",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -368,7 +368,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 7,
+        "sNo": "7",
         "customerCompanyName": "Customer 7",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -388,7 +388,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 8,
+        "sNo": "8",
         "customerCompanyName": "Customer 8",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -408,7 +408,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 9,
+        "sNo": "9",
         "customerCompanyName": "Customer 9",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -428,7 +428,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 10,
+        "sNo": "10",
         "customerCompanyName": "Customer 10",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -448,7 +448,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 11,
+        "sNo": "11",
         "customerCompanyName": "Customer 11",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -468,7 +468,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 12,
+        "sNo": "12",
         "customerCompanyName": "Customer 12",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -488,7 +488,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 13,
+        "sNo": "13",
         "customerCompanyName": "Customer 13",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -508,7 +508,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 14,
+        "sNo": "14",
         "customerCompanyName": "Customer 14",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -528,7 +528,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": 15,
+        "sNo": "15",
         "customerCompanyName": "Customer N",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -559,8 +559,98 @@
     ],
     "rows": [
       {
-        "sNo": 1,
-        "customerCompanyName": "Scottish and Southern Electricity Networks / SSEN Transmission",
+        "sNo": "1",
+        "customerCompanyName": "E.ON",
+        "businessOverview": "International energy company focused on energy networks, smart grids, energy infrastructure solutions, and customer solutions across Europe. In the Hitachi Energy reference case, E.ON selected composite utility poles for upgrading a five-kilometer 10 kilovolt distribution line in the Småland forest, Sweden.",
+        "customerTypeAndNetworkResponsibility": "Distribution Network Operator (DNO)",
+        "compositePoleApplicationUseCase": "Replacement / upgrade of 10 kilovolt distribution poles in environmentally sensitive forest, water-body, park, and residential-adjacent areas where treated wooden poles create environmental leakage concerns.",
+        "annualRevenueOrNetworkBudgetSignal": "Approx. US$89,046 Mn FY2025 group revenue; strong network budget signal with €7.0 Bn invested in Energy Networks in FY2025 and €48 Bn planned group investments for 2026–2030.",
+        "sizeOperatingScale": "Major European energy network operator with large regulated grid operations across multiple European markets; composite pole reference is Sweden-specific, not United Kingdom-specific.",
+        "keyContactPerson": "Oliver Franz",
+        "designationDecisionMakerRole": "VP European Regulation at E.ON SE; regulatory stakeholder, not confirmed direct pole procurement owner",
+        "emailAddress": "oliver.franz@eon.com",
+        "telephoneWhatsappNumber": "+49 201 18400",
+        "linkedInProfile": "https://de.linkedin.com/in/oliver-franz-29786688",
+        "website": "eon.com",
+        "compositePolePurchaseCriteria": "No chemical leakage, environmentally safe pole material, strength and stiffness compliance, easy installation, maintenance-free design, suitability for sensitive ecosystems",
+        "networkPainPoints": "Environmental concerns from creosote or copper-salt treated wooden poles, replacement of aging wooden poles, public/environmental sensitivity near water bodies and residential areas",
+        "gridComplianceAndOperationalIssues": "Distribution-line safety standards, environmental protection requirements, pole material compliance, local grid engineering acceptance",
+        "digitalMaturity": "High",
+        "riskExposure": "Environmental liability, public opposition, pole deterioration, regulatory scrutiny around treated wood use",
+        "assetRenewalCycleAndBuyingTriggers": "Distribution pole replacement, environmentally sensitive route upgrades, wooden pole phase-down, grid modernization, sustainability-driven replacement",
+        "budgetOwner": "Energy Networks asset management, distribution network engineering, environmental compliance, procurement",
+        "procurementModel": "Utility-led technical assessment, pilot deployment, supplier qualification, distribution network project procurement",
+        "vendorSelectionCriteria": "Proven environmental benefit, compliance with strength/stiffness standards, ease of climbing/installation, low maintenance, supplier manufacturing credibility",
+        "preferredEngagementMode": "Technical pilot, engineering evaluation, environmental-benefit positioning, utility innovation engagement",
+        "preferredDeploymentServiceContract": "Project-based supply for distribution-line upgrade; potential for framework if scaled across similar routes",
+        "preferredSolutionType": "Composite distribution utility poles",
+        "integrationTechnicalServiceRequirement": "Compliance documentation, pole strength/stiffness testing, drilling and fitting compatibility, installation method, utility crew training",
+        "potentialCustomerDetails": "E.ON has already used / selected composite poles in a Sweden distribution-line application through Hitachi Energy’s customer story. It is a valid adoption reference for composite utility poles, but not direct evidence for U.K. composite transmission pole procurement.",
+        "additionalCmiNotes": "Good benchmark customer for composite pole adoption because the buying logic is clear: environmental protection, replacement of treated wooden poles, ease of installation, and maintenance-free performance. For U.K. transmission pole database, keep E.ON as a reference / secondary customer, not a core U.K. transmission buyer."
+      },
+      {
+        "sNo": "2",
+        "customerCompanyName": "UK Power Networks (Eastern Power Networks)",
+        "businessOverview": "Electricity distribution network operator maintaining electricity networks across London, the South East, and the East of England. It operates through Eastern Power Networks, London Power Networks, and South Eastern Power Networks.",
+        "customerTypeAndNetworkResponsibility": "Electricity Distribution Network Operator",
+        "compositePoleApplicationUseCase": "Engineered / composite-alternative pole application for 33 kilovolt distribution overhead-line networks. Public evidence supports UK Power Networks’ engineered pole trial on a 33 kilovolt line, not confirmed composite utility transmission pole purchase.",
+        "annualRevenueOrNetworkBudgetSignal": "FY2025 turnover: £2,462.9 million, approximately US$3,100 million; strong regulated network capital expenditure signal.",
+        "sizeOperatingScale": "Major electricity distribution network covering London, South East England, and East of England; large urban, semi-urban, and rural distribution network base.",
+        "keyContactPerson": "Andrew Quail",
+        "designationDecisionMakerRole": "Chief Information Officer; digital and information technology stakeholder, not confirmed direct pole procurement owner",
+        "emailAddress": "andrew.quail@ukpowernetworks.co.uk",
+        "telephoneWhatsappNumber": "+44 800 783 8838",
+        "linkedInProfile": "https://uk.linkedin.com/in/andrewquail",
+        "website": "ukpowernetworks.co.uk",
+        "compositePolePurchaseCriteria": "Engineering approval, 33 kilovolt network suitability, installation safety, lifecycle cost, low maintenance, outage reduction, compatibility with existing overhead-line assets",
+        "networkPainPoints": "Aging overhead-line assets, storm resilience, restricted access, urban and semi-rural disruption, outage minimisation, rising network load from electrification",
+        "gridComplianceAndOperationalIssues": "Distribution network safety standards, engineering specifications, asset-management approval, environmental and wayleave constraints, Distribution Network Operator regulatory obligations",
+        "digitalMaturity": "High",
+        "riskExposure": "Service interruption risk, public safety risk, project delay risk, asset defect risk, regulatory performance risk",
+        "assetRenewalCycleAndBuyingTriggers": "33 kilovolt overhead-line upgrade, engineered pole trial, asset replacement cycle, resilience projects, electric vehicle and distributed energy connection growth",
+        "budgetOwner": "Asset Management, Network Engineering, Capital Delivery, Procurement; Information Technology may influence asset data, digital inspection, and network analytics systems",
+        "procurementModel": "Technical trial, engineering specification, approved supplier qualification, framework procurement, project call-off",
+        "vendorSelectionCriteria": "Proven distribution-network performance, compliance documentation, constructability, crew safety, installation procedure, warranty, United Kingdom references",
+        "preferredEngagementMode": "Technical workshop, engineering evaluation, pilot deployment, approved supplier onboarding",
+        "preferredDeploymentServiceContract": "Project-based deployment with potential for framework supply after successful trial and business-as-usual adoption",
+        "preferredSolutionType": "Engineered / composite distribution pole solution for 33 kilovolt overhead-line applications",
+        "integrationTechnicalServiceRequirement": "Structural testing, pole-top hardware compatibility, foundation design, installation procedure, asset data integration, field crew training",
+        "potentialCustomerDetails": "UK Power Networks is a strong Distribution Network Operator prospect because it has already evaluated engineered poles through a 33 kilovolt overhead-line innovation project. Andrew Quail can be treated as a digital / information systems contact, while the actual pole buyer should be mapped under Asset Management, Network Engineering, Procurement, or Capital Delivery.",
+        "additionalCmiNotes": "Good prospect for composite / engineered pole suppliers, but classify carefully: evidence supports distribution-network engineered pole trial, not confirmed transmission pole purchase. Priority is medium-high due to network scale, engineering maturity, and potential for asset-standard adoption."
+      },
+      {
+        "sNo": "3",
+        "customerCompanyName": "SP Energy Networks",
+        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
+        "customerTypeAndNetworkResponsibility": "Transmission System Operator and Distribution Network Operator",
+        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
+        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
+        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
+        "keyContactPerson": "Christopher Carter",
+        "designationDecisionMakerRole": "Head of Innovation",
+        "emailAddress": "ccarter@spenergynetworks.co.uk",
+        "telephoneWhatsappNumber": "+44 800 092 9290",
+        "linkedInProfile": "https://uk.linkedin.com/in/christopher-carter-6133a163",
+        "website": "https://www.spenergynetworks.co.uk/",
+        "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
+        "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
+        "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
+        "digitalMaturity": "High",
+        "riskExposure": "High exposure to weather disruption, regulatory performance targets, asset failure risk, grid capacity constraints, and decarbonization delivery pressure.",
+        "assetRenewalCycleAndBuyingTriggers": "RIIO investment cycles, overhead line asset renewal, renewable connection projects, storm-hardening programmes, innovation trials.",
+        "budgetOwner": "Innovation, asset management, network investment, and capital delivery teams",
+        "procurementModel": "Direct network-operator procurement with framework suppliers and EPC/grid contractors",
+        "vendorSelectionCriteria": "Technical validation, lifecycle cost, field performance, safety compliance, environmental benefit, installation feasibility, supplier track record.",
+        "preferredEngagementMode": "Innovation-led engagement followed by procurement/framework route",
+        "preferredDeploymentServiceContract": "Pilot project, field trial, framework-based supply, installation, and maintenance support",
+        "preferredSolutionType": "Composite utility poles / composite overhead line structures",
+        "integrationTechnicalServiceRequirement": "Trial support, engineering validation, installation training, asset-performance monitoring, compliance documentation.",
+        "potentialCustomerDetails": "Strong potential U.K. customer due to transmission/distribution network role and innovation-led grid modernization focus.",
+        "additionalCmiNotes": "Contact is innovation-relevant, but final procurement may involve asset management, capital delivery, and procurement teams."
+      },
+      {
+        "sNo": "4",
+        "customerCompanyName": "SSEN Transmission (Scottish and Southern Electricity Networks)",
         "businessOverview": "Electricity transmission network owner and operator responsible for the north of Scotland transmission network and renewable energy grid connections.",
         "customerTypeAndNetworkResponsibility": "Transmission System Operator and Transmission Utility",
         "compositePoleApplicationUseCase": "Used composite poles for Dorenell Wind Farm transmission connection project and remote-terrain grid infrastructure deployment.",
@@ -589,97 +679,7 @@
         "additionalCmiNotes": "SSEN Transmission deployed 140 composite poles with Balfour Beatty for Dorenell Wind Farm connection project in Scotland."
       },
       {
-        "sNo": 2,
-        "customerCompanyName": "SP Energy Networks",
-        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
-        "customerTypeAndNetworkResponsibility": "Transmission System Operator / Distribution Network Operator",
-        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
-        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
-        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "Christopher Carter",
-        "designationDecisionMakerRole": "Head of Innovation",
-        "emailAddress": "ccarter@spenergynetworks.co.uk",
-        "telephoneWhatsappNumber": "+44 800 092 9290",
-        "linkedInProfile": "https://uk.linkedin.com/in/christopher-carter-6133a163",
-        "website": "https://www.spenergynetworks.co.uk/",
-        "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
-        "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
-        "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
-        "digitalMaturity": "High",
-        "riskExposure": "High exposure to weather disruption, regulatory performance targets, asset failure risk, grid capacity constraints, and decarbonization delivery pressure.",
-        "assetRenewalCycleAndBuyingTriggers": "RIIO investment cycles, overhead line asset renewal, renewable connection projects, storm-hardening programmes, innovation trials.",
-        "budgetOwner": "Innovation, asset management, network investment, and capital delivery teams",
-        "procurementModel": "Direct network-operator procurement with framework suppliers and EPC/grid contractors",
-        "vendorSelectionCriteria": "Technical validation, lifecycle cost, field performance, safety compliance, environmental benefit, installation feasibility, supplier track record.",
-        "preferredEngagementMode": "Innovation-led engagement followed by procurement/framework route",
-        "preferredDeploymentServiceContract": "Pilot project, field trial, framework-based supply, installation, and maintenance support",
-        "preferredSolutionType": "Composite utility poles / composite overhead line structures",
-        "integrationTechnicalServiceRequirement": "Trial support, engineering validation, installation training, asset-performance monitoring, compliance documentation.",
-        "potentialCustomerDetails": "Strong potential U.K. customer due to transmission/distribution network role and innovation-led grid modernization focus.",
-        "additionalCmiNotes": "Contact is innovation-relevant, but final procurement may involve asset management, capital delivery, and procurement teams."
-      },
-      {
-        "sNo": 3,
-        "customerCompanyName": "Customer 3",
-        "businessOverview": "xx",
-        "customerTypeAndNetworkResponsibility": "xx",
-        "compositePoleApplicationUseCase": "xx",
-        "annualRevenueOrNetworkBudgetSignal": "xx",
-        "sizeOperatingScale": "xx",
-        "keyContactPerson": "xx",
-        "designationDecisionMakerRole": "xx",
-        "emailAddress": "xx",
-        "telephoneWhatsappNumber": "xx",
-        "linkedInProfile": "xx",
-        "website": "xx",
-        "compositePolePurchaseCriteria": "xx",
-        "networkPainPoints": "xx",
-        "gridComplianceAndOperationalIssues": "xx",
-        "digitalMaturity": "xx",
-        "riskExposure": "xx",
-        "assetRenewalCycleAndBuyingTriggers": "xx",
-        "budgetOwner": "xx",
-        "procurementModel": "xx",
-        "vendorSelectionCriteria": "xx",
-        "preferredEngagementMode": "xx",
-        "preferredDeploymentServiceContract": "xx",
-        "preferredSolutionType": "xx",
-        "integrationTechnicalServiceRequirement": "xx",
-        "potentialCustomerDetails": "xx",
-        "additionalCmiNotes": "xx"
-      },
-      {
-        "sNo": 4,
-        "customerCompanyName": "Customer 4",
-        "businessOverview": "xx",
-        "customerTypeAndNetworkResponsibility": "xx",
-        "compositePoleApplicationUseCase": "xx",
-        "annualRevenueOrNetworkBudgetSignal": "xx",
-        "sizeOperatingScale": "xx",
-        "keyContactPerson": "xx",
-        "designationDecisionMakerRole": "xx",
-        "emailAddress": "xx",
-        "telephoneWhatsappNumber": "xx",
-        "linkedInProfile": "xx",
-        "website": "xx",
-        "compositePolePurchaseCriteria": "xx",
-        "networkPainPoints": "xx",
-        "gridComplianceAndOperationalIssues": "xx",
-        "digitalMaturity": "xx",
-        "riskExposure": "xx",
-        "assetRenewalCycleAndBuyingTriggers": "xx",
-        "budgetOwner": "xx",
-        "procurementModel": "xx",
-        "vendorSelectionCriteria": "xx",
-        "preferredEngagementMode": "xx",
-        "preferredDeploymentServiceContract": "xx",
-        "preferredSolutionType": "xx",
-        "integrationTechnicalServiceRequirement": "xx",
-        "potentialCustomerDetails": "xx",
-        "additionalCmiNotes": "xx"
-      },
-      {
-        "sNo": 5,
+        "sNo": "5",
         "customerCompanyName": "Customer 5",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -709,7 +709,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 6,
+        "sNo": "6",
         "customerCompanyName": "Customer 6",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -739,7 +739,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 7,
+        "sNo": "7",
         "customerCompanyName": "Customer 7",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -769,7 +769,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 8,
+        "sNo": "8",
         "customerCompanyName": "Customer 8",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -799,7 +799,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 9,
+        "sNo": "9",
         "customerCompanyName": "Customer 9",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -829,7 +829,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 10,
+        "sNo": "10",
         "customerCompanyName": "Customer 10",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -859,7 +859,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 11,
+        "sNo": "11",
         "customerCompanyName": "Customer 11",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -889,7 +889,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 12,
+        "sNo": "12",
         "customerCompanyName": "Customer 12",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -919,7 +919,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 13,
+        "sNo": "13",
         "customerCompanyName": "Customer 13",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -949,7 +949,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 14,
+        "sNo": "14",
         "customerCompanyName": "Customer 14",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -979,7 +979,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": 15,
+        "sNo": "15",
         "customerCompanyName": "Customer N",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
