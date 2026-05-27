@@ -71,6 +71,12 @@ function findCompanyNameColumn(rows) {
   return null;
 }
 
+function appendMultilineField(existing, value) {
+  const next = normalizeCell(value);
+  if (!next) return existing;
+  return existing ? `${existing}\n${next}` : next;
+}
+
 function parseReferenceSheet(wb, extraColsAfterBase = []) {
   const ws = wb.Sheets[REFERENCE_SHEET];
   const rows = XLSX.utils.sheet_to_json(ws, { header: 1, defval: '' });
@@ -96,14 +102,18 @@ function parseReferenceSheet(wb, extraColsAfterBase = []) {
       const prev = dataRows[dataRows.length - 1];
       const altContact = normalizeCell(row[companyColIdx + 6]);
       if (prev && altContact) {
-        const alternateRow = { ...prev };
-        alternateRow.keyContactPerson = altContact;
-        alternateRow.designationDecisionMakerRole = normalizeCell(row[companyColIdx + 7]);
-        alternateRow.emailAddress = normalizeCell(row[companyColIdx + 8]);
-        alternateRow.telephoneWhatsappNumber = normalizeCell(row[companyColIdx + 9]);
-        alternateRow.linkedInProfile = normalizeCell(row[companyColIdx + 10]);
-        alternateRow.website = normalizeCell(row[companyColIdx + 11]);
-        dataRows.push(alternateRow);
+        prev.keyContactPerson = appendMultilineField(prev.keyContactPerson, altContact);
+        prev.designationDecisionMakerRole = appendMultilineField(
+          prev.designationDecisionMakerRole,
+          row[companyColIdx + 7]
+        );
+        prev.emailAddress = appendMultilineField(prev.emailAddress, row[companyColIdx + 8]);
+        prev.telephoneWhatsappNumber = appendMultilineField(
+          prev.telephoneWhatsappNumber,
+          row[companyColIdx + 9]
+        );
+        prev.linkedInProfile = appendMultilineField(prev.linkedInProfile, row[companyColIdx + 10]);
+        prev.website = appendMultilineField(prev.website, row[companyColIdx + 11]);
       }
       continue;
     }

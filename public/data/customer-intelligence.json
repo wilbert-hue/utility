@@ -34,30 +34,15 @@
         "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
         "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
         "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "Mhairi McGilp",
-        "designationDecisionMakerRole": "Category Manager",
-        "emailAddress": "mmcgilp@scottishpower.com",
-        "telephoneWhatsappNumber": "+44 845 270 0700",
-        "linkedInProfile": "https://www.linkedin.com/in/mhairi-mcgilp-a5b48346/",
-        "website": "https://www.spenergynetworks.co.uk/"
+        "keyContactPerson": "Mhairi McGilp\nNEIL HARKINS (Alternate Person to Contact)",
+        "designationDecisionMakerRole": "Category Manager\nHead of Energy Networks Purchasing",
+        "emailAddress": "mmcgilp@scottishpower.com\nneil.harkins@scottishpower.com",
+        "telephoneWhatsappNumber": "+44 845 270 0700\n0800 092 9290",
+        "linkedInProfile": "https://www.linkedin.com/in/mhairi-mcgilp-a5b48346/\nhttps://uk.linkedin.com/in/neil-harkins-3b7aba49",
+        "website": "https://www.spenergynetworks.co.uk/\nhttps://www.spenergynetworks.co.uk/"
       },
       {
         "sNo": "3",
-        "customerCompanyName": "SP Energy Networks",
-        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
-        "customerTypeAndNetworkResponsibility": "Distribution Network Operator Group",
-        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
-        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
-        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "NEIL HARKINS (Alternate Person to Contact)",
-        "designationDecisionMakerRole": "Head of Energy Networks Purchasing",
-        "emailAddress": "neil.harkins@scottishpower.com",
-        "telephoneWhatsappNumber": "0800 092 9290",
-        "linkedInProfile": "https://uk.linkedin.com/in/neil-harkins-3b7aba49",
-        "website": "https://www.spenergynetworks.co.uk/"
-      },
-      {
-        "sNo": "4",
         "customerCompanyName": "SSEN Transmission (Scottish and Southern Electricity Networks)",
         "businessOverview": "Electricity transmission network owner and operator responsible for the north of Scotland transmission network and renewable energy grid connections.",
         "customerTypeAndNetworkResponsibility": "Transmission System Operator, Transmission Utility and Distribution Network Operator Group",
@@ -72,7 +57,7 @@
         "website": "https://www.ssen-transmission.co.uk/"
       },
       {
-        "sNo": "5",
+        "sNo": "4",
         "customerCompanyName": "Customer 5",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -87,7 +72,7 @@
         "website": "xx"
       },
       {
-        "sNo": "6",
+        "sNo": "5",
         "customerCompanyName": "Customer 6",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -102,7 +87,7 @@
         "website": "xx"
       },
       {
-        "sNo": "7",
+        "sNo": "6",
         "customerCompanyName": "Customer 7",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -117,7 +102,7 @@
         "website": "xx"
       },
       {
-        "sNo": "8",
+        "sNo": "7",
         "customerCompanyName": "Customer 8",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -132,7 +117,7 @@
         "website": "xx"
       },
       {
-        "sNo": "9",
+        "sNo": "8",
         "customerCompanyName": "Customer 9",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -147,7 +132,7 @@
         "website": "xx"
       },
       {
-        "sNo": "10",
+        "sNo": "9",
         "customerCompanyName": "Customer 10",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -162,7 +147,7 @@
         "website": "xx"
       },
       {
-        "sNo": "11",
+        "sNo": "10",
         "customerCompanyName": "Customer 11",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -177,7 +162,7 @@
         "website": "xx"
       },
       {
-        "sNo": "12",
+        "sNo": "11",
         "customerCompanyName": "Customer 12",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -192,7 +177,7 @@
         "website": "xx"
       },
       {
-        "sNo": "13",
+        "sNo": "12",
         "customerCompanyName": "Customer 13",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -207,8 +192,23 @@
         "website": "xx"
       },
       {
-        "sNo": "14",
+        "sNo": "13",
         "customerCompanyName": "Customer 14",
+        "businessOverview": "xx",
+        "customerTypeAndNetworkResponsibility": "xx",
+        "compositePoleApplicationUseCase": "xx",
+        "annualRevenueOrNetworkBudgetSignal": "xx",
+        "sizeOperatingScale": "xx",
+        "keyContactPerson": "xx",
+        "designationDecisionMakerRole": "xx",
+        "emailAddress": "xx",
+        "telephoneWhatsappNumber": "xx",
+        "linkedInProfile": "xx",
+        "website": "xx"
+      },
+      {
+        "sNo": "14",
+        "customerCompanyName": "Customer 15",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
         "compositePoleApplicationUseCase": "xx",
@@ -275,12 +275,12 @@
         "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
         "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
         "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "Mhairi McGilp",
-        "designationDecisionMakerRole": "Category Manager",
-        "emailAddress": "mmcgilp@scottishpower.com",
-        "telephoneWhatsappNumber": "+44 845 270 0700",
-        "linkedInProfile": "https://www.linkedin.com/in/mhairi-mcgilp-a5b48346/",
-        "website": "https://www.spenergynetworks.co.uk/",
+        "keyContactPerson": "Mhairi McGilp\nNEIL HARKINS (Alternate Person to Contact)",
+        "designationDecisionMakerRole": "Category Manager\nHead of Energy Networks Purchasing",
+        "emailAddress": "mmcgilp@scottishpower.com\nneil.harkins@scottishpower.com",
+        "telephoneWhatsappNumber": "+44 845 270 0700\n0800 092 9290",
+        "linkedInProfile": "https://www.linkedin.com/in/mhairi-mcgilp-a5b48346/\nhttps://uk.linkedin.com/in/neil-harkins-3b7aba49",
+        "website": "https://www.spenergynetworks.co.uk/\nhttps://www.spenergynetworks.co.uk/",
         "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
         "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
         "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
@@ -289,26 +289,6 @@
       },
       {
         "sNo": "3",
-        "customerCompanyName": "SP Energy Networks",
-        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
-        "customerTypeAndNetworkResponsibility": "Distribution Network Operator Group",
-        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
-        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
-        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "NEIL HARKINS (Alternate Person to Contact)",
-        "designationDecisionMakerRole": "Head of Energy Networks Purchasing",
-        "emailAddress": "neil.harkins@scottishpower.com",
-        "telephoneWhatsappNumber": "0800 092 9290",
-        "linkedInProfile": "https://uk.linkedin.com/in/neil-harkins-3b7aba49",
-        "website": "https://www.spenergynetworks.co.uk/",
-        "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
-        "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
-        "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
-        "digitalMaturity": "High",
-        "riskExposure": "High exposure to weather disruption, regulatory performance targets, asset failure risk, grid capacity constraints, and decarbonization delivery pressure."
-      },
-      {
-        "sNo": "4",
         "customerCompanyName": "SSEN Transmission (Scottish and Southern Electricity Networks)",
         "businessOverview": "Electricity transmission network owner and operator responsible for the north of Scotland transmission network and renewable energy grid connections.",
         "customerTypeAndNetworkResponsibility": "Transmission System Operator, Transmission Utility and Distribution Network Operator Group",
@@ -328,7 +308,7 @@
         "riskExposure": "High exposure to grid reliability risks, severe weather conditions, project execution delays, and renewable integration pressure."
       },
       {
-        "sNo": "5",
+        "sNo": "4",
         "customerCompanyName": "Customer 5",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -348,7 +328,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "6",
+        "sNo": "5",
         "customerCompanyName": "Customer 6",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -368,7 +348,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "7",
+        "sNo": "6",
         "customerCompanyName": "Customer 7",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -388,7 +368,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "8",
+        "sNo": "7",
         "customerCompanyName": "Customer 8",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -408,7 +388,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "9",
+        "sNo": "8",
         "customerCompanyName": "Customer 9",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -428,7 +408,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "10",
+        "sNo": "9",
         "customerCompanyName": "Customer 10",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -448,7 +428,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "11",
+        "sNo": "10",
         "customerCompanyName": "Customer 11",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -468,7 +448,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "12",
+        "sNo": "11",
         "customerCompanyName": "Customer 12",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -488,7 +468,7 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "13",
+        "sNo": "12",
         "customerCompanyName": "Customer 13",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -508,8 +488,28 @@
         "riskExposure": "xx"
       },
       {
-        "sNo": "14",
+        "sNo": "13",
         "customerCompanyName": "Customer 14",
+        "businessOverview": "xx",
+        "customerTypeAndNetworkResponsibility": "xx",
+        "compositePoleApplicationUseCase": "xx",
+        "annualRevenueOrNetworkBudgetSignal": "xx",
+        "sizeOperatingScale": "xx",
+        "keyContactPerson": "xx",
+        "designationDecisionMakerRole": "xx",
+        "emailAddress": "xx",
+        "telephoneWhatsappNumber": "xx",
+        "linkedInProfile": "xx",
+        "website": "xx",
+        "compositePolePurchaseCriteria": "xx",
+        "networkPainPoints": "xx",
+        "gridComplianceAndOperationalIssues": "xx",
+        "digitalMaturity": "xx",
+        "riskExposure": "xx"
+      },
+      {
+        "sNo": "14",
+        "customerCompanyName": "Customer 15",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
         "compositePoleApplicationUseCase": "xx",
@@ -596,12 +596,12 @@
         "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
         "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
         "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "Mhairi McGilp",
-        "designationDecisionMakerRole": "Category Manager",
-        "emailAddress": "mmcgilp@scottishpower.com",
-        "telephoneWhatsappNumber": "+44 845 270 0700",
-        "linkedInProfile": "https://www.linkedin.com/in/mhairi-mcgilp-a5b48346/",
-        "website": "https://www.spenergynetworks.co.uk/",
+        "keyContactPerson": "Mhairi McGilp\nNEIL HARKINS (Alternate Person to Contact)",
+        "designationDecisionMakerRole": "Category Manager\nHead of Energy Networks Purchasing",
+        "emailAddress": "mmcgilp@scottishpower.com\nneil.harkins@scottishpower.com",
+        "telephoneWhatsappNumber": "+44 845 270 0700\n0800 092 9290",
+        "linkedInProfile": "https://www.linkedin.com/in/mhairi-mcgilp-a5b48346/\nhttps://uk.linkedin.com/in/neil-harkins-3b7aba49",
+        "website": "https://www.spenergynetworks.co.uk/\nhttps://www.spenergynetworks.co.uk/",
         "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
         "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
         "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
@@ -620,36 +620,6 @@
       },
       {
         "sNo": "3",
-        "customerCompanyName": "SP Energy Networks",
-        "businessOverview": "Electricity transmission and distribution network operator under ScottishPower, responsible for electricity networks across Central and Southern Scotland, Merseyside, Cheshire, North Wales, and North Shropshire.",
-        "customerTypeAndNetworkResponsibility": "Distribution Network Operator Group",
-        "compositePoleApplicationUseCase": "Potential composite pole use for overhead line reinforcement, wood pole replacement, storm resilience, and renewable grid connection projects.",
-        "annualRevenueOrNetworkBudgetSignal": "Strong network-investment signal through RIIO-ED2 and RIIO-T3 regulated grid investment programmes.",
-        "sizeOperatingScale": "Large U.K. electricity network operator with both transmission and distribution responsibilities.",
-        "keyContactPerson": "NEIL HARKINS (Alternate Person to Contact)",
-        "designationDecisionMakerRole": "Head of Energy Networks Purchasing",
-        "emailAddress": "neil.harkins@scottishpower.com",
-        "telephoneWhatsappNumber": "0800 092 9290",
-        "linkedInProfile": "https://uk.linkedin.com/in/neil-harkins-3b7aba49",
-        "website": "https://www.spenergynetworks.co.uk/",
-        "compositePolePurchaseCriteria": "Innovation fit, lower lifecycle maintenance, resilience improvement, environmental performance, faster deployment, suitability for overhead line upgrades.",
-        "networkPainPoints": "Aging overhead network assets, storm exposure, renewable connection demand, grid reinforcement pressure, rural network access constraints.",
-        "gridComplianceAndOperationalIssues": "Must comply with Ofgem price-control requirements, U.K. grid standards, safety rules, reliability targets, and distribution/transmission network obligations.",
-        "digitalMaturity": "High",
-        "riskExposure": "High exposure to weather disruption, regulatory performance targets, asset failure risk, grid capacity constraints, and decarbonization delivery pressure.",
-        "assetRenewalCycleAndBuyingTriggers": "RIIO investment cycles, overhead line asset renewal, renewable connection projects, storm-hardening programmes, innovation trials.",
-        "budgetOwner": "Innovation, asset management, network investment, and capital delivery teams",
-        "procurementModel": "Direct network-operator procurement with framework suppliers and EPC/grid contractors",
-        "vendorSelectionCriteria": "Technical validation, lifecycle cost, field performance, safety compliance, environmental benefit, installation feasibility, supplier track record.",
-        "preferredEngagementMode": "Innovation-led engagement followed by procurement/framework route",
-        "preferredDeploymentServiceContract": "Pilot project, field trial, framework-based supply, installation, and maintenance support",
-        "preferredSolutionType": "Composite utility poles / composite overhead line structures",
-        "integrationTechnicalServiceRequirement": "Trial support, engineering validation, installation training, asset-performance monitoring, compliance documentation.",
-        "potentialCustomerDetails": "Strong potential U.K. customer due to transmission/distribution network role and innovation-led grid modernization focus.",
-        "additionalCmiNotes": "Contact is innovation-relevant, but final procurement may involve asset management, capital delivery, and procurement teams."
-      },
-      {
-        "sNo": "4",
         "customerCompanyName": "SSEN Transmission (Scottish and Southern Electricity Networks)",
         "businessOverview": "Electricity transmission network owner and operator responsible for the north of Scotland transmission network and renewable energy grid connections.",
         "customerTypeAndNetworkResponsibility": "Transmission System Operator, Transmission Utility and Distribution Network Operator Group",
@@ -679,7 +649,7 @@
         "additionalCmiNotes": "SSEN Transmission deployed 140 composite poles with Balfour Beatty for Dorenell Wind Farm connection project in Scotland."
       },
       {
-        "sNo": "5",
+        "sNo": "4",
         "customerCompanyName": "Customer 5",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -709,7 +679,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "6",
+        "sNo": "5",
         "customerCompanyName": "Customer 6",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -739,7 +709,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "7",
+        "sNo": "6",
         "customerCompanyName": "Customer 7",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -769,7 +739,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "8",
+        "sNo": "7",
         "customerCompanyName": "Customer 8",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -799,7 +769,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "9",
+        "sNo": "8",
         "customerCompanyName": "Customer 9",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -829,7 +799,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "10",
+        "sNo": "9",
         "customerCompanyName": "Customer 10",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -859,7 +829,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "11",
+        "sNo": "10",
         "customerCompanyName": "Customer 11",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -889,7 +859,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "12",
+        "sNo": "11",
         "customerCompanyName": "Customer 12",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -919,7 +889,7 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "13",
+        "sNo": "12",
         "customerCompanyName": "Customer 13",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
@@ -949,8 +919,38 @@
         "additionalCmiNotes": "xx"
       },
       {
-        "sNo": "14",
+        "sNo": "13",
         "customerCompanyName": "Customer 14",
+        "businessOverview": "xx",
+        "customerTypeAndNetworkResponsibility": "xx",
+        "compositePoleApplicationUseCase": "xx",
+        "annualRevenueOrNetworkBudgetSignal": "xx",
+        "sizeOperatingScale": "xx",
+        "keyContactPerson": "xx",
+        "designationDecisionMakerRole": "xx",
+        "emailAddress": "xx",
+        "telephoneWhatsappNumber": "xx",
+        "linkedInProfile": "xx",
+        "website": "xx",
+        "compositePolePurchaseCriteria": "xx",
+        "networkPainPoints": "xx",
+        "gridComplianceAndOperationalIssues": "xx",
+        "digitalMaturity": "xx",
+        "riskExposure": "xx",
+        "assetRenewalCycleAndBuyingTriggers": "xx",
+        "budgetOwner": "xx",
+        "procurementModel": "xx",
+        "vendorSelectionCriteria": "xx",
+        "preferredEngagementMode": "xx",
+        "preferredDeploymentServiceContract": "xx",
+        "preferredSolutionType": "xx",
+        "integrationTechnicalServiceRequirement": "xx",
+        "potentialCustomerDetails": "xx",
+        "additionalCmiNotes": "xx"
+      },
+      {
+        "sNo": "14",
+        "customerCompanyName": "Customer 15",
         "businessOverview": "xx",
         "customerTypeAndNetworkResponsibility": "xx",
         "compositePoleApplicationUseCase": "xx",

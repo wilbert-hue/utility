@@ -37,9 +37,7 @@ function AccordionSection({ title, isOpen, onToggle, children }: AccordionSectio
   )
 }
 
-function renderCellValue(value: string, column: TableColumn) {
-  if (!value) return '—'
-
+function renderSingleCellLine(value: string, column: TableColumn) {
   if (column.isLink === 'email' && value.includes('@')) {
     return (
       <a href={`mailto:${value}`} className="text-blue-600 hover:underline">
@@ -58,6 +56,23 @@ function renderCellValue(value: string, column: TableColumn) {
   }
 
   return value
+}
+
+function renderCellValue(value: string, column: TableColumn) {
+  if (!value) return '—'
+
+  const lines = value.split('\n').map((line) => line.trim()).filter(Boolean)
+  if (lines.length === 1) {
+    return renderSingleCellLine(lines[0], column)
+  }
+
+  return (
+    <div className="space-y-2">
+      {lines.map((line, index) => (
+        <div key={`${line}-${index}`}>{renderSingleCellLine(line, column)}</div>
+      ))}
+    </div>
+  )
 }
 
 function PropositionTable({
